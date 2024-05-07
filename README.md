@@ -7,4 +7,4 @@ docker run --name postgres -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432
 
 - to run the application -  go run main.go
 
-- GolangAssessment.postman_collection.json has the all listed apis, you can import this json in postman for apiss
+- GolangAssessment.postman_collection.json has the all listed apis, you can import this json in postman
